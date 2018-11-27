@@ -1,0 +1,92 @@
+body{
+	margin-left: 30px;
+    margin-top: 30px;
+    background-color:white;
+}
+a{
+	text-decoration: none;
+}
+
+/*header*/
+.red{
+	color: red;
+}
+
+.logo{
+	width: 100px;
+}
+
+.navigation ul{
+	padding: 0;
+}
+
+.navigation ul li{
+	list-style: none;
+    font-weight: bold;
+    font-size:22px;
+    font-family: "BPG Nino Mtavruli";
+    padding-top:10px;
+    color:#3D58A6;
+}
+
+.navigation ul li a:hover{
+    background-color:rgba(211,211,211,0.6);
+}
+/*header*/
+
+
+/*divs*/
+.news .day{
+	width: 60px;
+    background: #3D58A6;
+}
+
+.news .day h1{
+	color:white;
+    font-size:56px;
+    padding:2px;
+    margin-bottom: 0;
+}
+
+.news .month h3{
+	margin-top: 8px;
+    color:#3D58A6;
+    font-family: "BPG Nino Mtavruli";
+    font-size:23px;
+}
+
+.news p{
+	font-weight: bold;
+	font-size:14px;
+    font-family: "BPG Nino Mtavruli"
+}
+/*divs*/
+
+
+/*footer*/
+.table{
+	margin-top: 20px;
+}
+
+.table .td-image-1{
+	width: 13px;
+	text-align: center;
+	padding-left: 3px;
+	padding-right: 30px;
+}
+
+.table .td-image-2{
+	width: 27px;
+	text-align: center;
+	padding-left: 30px;
+}
+
+.line{
+ 	border-left: 3px solid #3D58A6;
+}
+/*footer*/
+
+
+
+
+
